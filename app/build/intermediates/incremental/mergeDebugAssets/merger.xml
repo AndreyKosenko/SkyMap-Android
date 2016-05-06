@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Upwork\Viktor\Sky Map\app\src\main\assets"><file name="constellations.binary" path="D:\Upwork\Viktor\Sky Map\app\src\main\assets\constellations.binary"/><file name="messier.binary" path="D:\Upwork\Viktor\Sky Map\app\src\main\assets\messier.binary"/><file name="stars.binary" path="D:\Upwork\Viktor\Sky Map\app\src\main\assets\stars.binary"/></source></dataSet><dataSet config="debug"><source path="D:\Upwork\Viktor\Sky Map\app\src\debug\assets"/></dataSet></merger>

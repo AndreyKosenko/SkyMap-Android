@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load_kml.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\load_kml.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagedisplay.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\imagedisplay.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_list_item_1.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\simple_list_item_1.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tos_view.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\tos_view.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_dialog.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\time_dialog.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagedisplaypanel.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\imagedisplaypanel.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\skyrenderer.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\skyrenderer.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_player.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\time_player.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagegallery.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\layout\\imagegallery.xml"
+    }
+]

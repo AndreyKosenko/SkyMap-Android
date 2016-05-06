@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fastzoom.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\anim\\fastzoom.xml"
+    },
+    {
+        "merged": "D:\\Upwork\\Viktor\\Sky Map\\app\\build\\intermediates\\res\\merged\\debug\\anim\\timetravelflash.xml",
+        "source": "D:\\Upwork\\Viktor\\Sky Map\\app\\src\\main\\res\\anim\\timetravelflash.xml"
+    }
+]

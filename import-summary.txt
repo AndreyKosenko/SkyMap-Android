@@ -1,0 +1,92 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+D:\Upwork\Viktor\Sky Map
+                    -   
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\Google Sky Map.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* ant.properties
+* build.xml
+* libs-src\
+* libs-src\cglib-src-2.2.jar
+* libs-src\cglib-src-2.2.zip
+* libs-src\easymock-2.5.2-sources.jar
+* libs-src\easymockclassextension-2.5.2-sources.jar
+* libs-src\junit_3.8-src.jar
+* libs-src\objenesis-1.2-sources.jar
+* proguard.cfg
+* test\
+* test\com\
+* test\com\google\
+* test\com\google\android\
+* test\com\google\android\stardroid\
+* test\com\google\android\stardroid\renderer\
+* test\com\google\android\stardroid\renderer\debug\
+* test\com\google\android\stardroid\renderer\debug\DebugSkyRenderer.java
+* test\com\google\android\stardroid\renderer\debug\NumericSprite.java
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+protobuf-java-2.3.0-lite.jar => com.google.protobuf:protobuf-java:2.6.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\libGoogleAnalytics.jar => app\libs\libGoogleAnalytics.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\com\google\android\stardroid\activities\SplashScreenActivity.java.backup => app\src\main\resources\com\google\android\stardroid\activities\SplashScreenActivity.java.backup
+* src\com\google\android\stardroid\control\package.html => app\src\main\resources\com\google\android\stardroid\control\package.html
+* src\com\google\android\stardroid\source\proto\source.proto => app\src\main\resources\com\google\android\stardroid\source\proto\source.proto
+* src\com\google\android\stardroid\source\proto\source.sh => app\src\main\resources\com\google\android\stardroid\source\proto\source.sh
+* src\com\google\android\stardroid\util\package.html => app\src\main\resources\com\google\android\stardroid\util\package.html
+* src\com\google\android\stardroid\views\package.html => app\src\main\resources\com\google\android\stardroid\views\package.html
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
